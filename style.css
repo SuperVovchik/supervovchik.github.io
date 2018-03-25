@@ -1,9 +1,14 @@
 body{
-    background-image: url(fonsait.jpg)
+    background-image: url(fonsait.jpg);
 }
 h1{
-    color: aqua
+    color: aqua;
+    text-align: center;
 }
 h2{
-    color:cornflowerblue
+    color:cornflowerblue;
+    text-align: center;
+}
+p{
+    color:cyan;
 }
